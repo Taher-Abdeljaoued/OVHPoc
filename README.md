@@ -32,6 +32,7 @@ The publisher API **OVHPoc.Publisher.Api** proposes :
 Example of 2 AlmostMail mailboxes that were migrated to the MerelyMail database with their respective Mails and Folders.
 
   *Mailbox*
+
 ![image](https://github.com/Taher-Abdeljaoued/OVHPoc/assets/73798429/bc79b97b-b743-436c-9098-d88ade435208)
 
   *Folders*
@@ -39,6 +40,7 @@ Example of 2 AlmostMail mailboxes that were migrated to the MerelyMail database 
 ![image](https://github.com/Taher-Abdeljaoued/OVHPoc/assets/73798429/ccec9507-d412-4ccc-851f-a7c1ded421e0)
 
   *Mails*
+  
 ![image](https://github.com/Taher-Abdeljaoued/OVHPoc/assets/73798429/68909fea-b1cd-4bad-a05f-10607dbee4be)
 
 
