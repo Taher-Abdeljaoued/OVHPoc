@@ -30,6 +30,7 @@ The publisher API **OVHPoc.Publisher.Api** proposes :
 
 ### Migration from AlmostMail -> MerelyMail will insert the mailbox in MerelyMail sqlite database
 Example of 2 AlmostMail mailboxes that were migrated to the MerelyMail database with their respective Mails and Folders.
+
   *Mailbox*
 ![image](https://github.com/Taher-Abdeljaoued/OVHPoc/assets/73798429/bc79b97b-b743-436c-9098-d88ade435208)
 
@@ -42,7 +43,8 @@ Example of 2 AlmostMail mailboxes that were migrated to the MerelyMail database 
 
 
 ### Migration from MerelyMail -> AlmostMail will generate a json file of the mailbox and saves locally in the solution : 
-Example of some MerelyMail mailboxex that were migrated to AlmostMail format :
+
+Example of some MerelyMail mailboxes that were migrated to AlmostMail format :
 
 ![image](https://github.com/Taher-Abdeljaoued/OVHPoc/assets/73798429/c53befb5-8a18-41cc-936a-bff61934a246)
 
