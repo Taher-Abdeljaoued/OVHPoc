@@ -4,7 +4,7 @@
 I did not take into account Authentication/Authorization, Exception handling, Entities validation, as it was not the main objective of this exercise.
 
 
-# Brief description of the technical aspect of the proposed solution:
+# Brief description of the technical aspect of the proposed solution
 I've made the choice to put in place a Microservices Architecture with Rabbitmq as a message/queue tool to ensure the communication between the 2 main services : 
   - Publisher API : OVHPoc.Publisher.Api 
   - Consumer API : OVHPoc.Consumer.Api
@@ -34,6 +34,7 @@ Example of 2 AlmostMail mailboxes that were migrated to the MerelyMail database 
 ![image](https://github.com/Taher-Abdeljaoued/OVHPoc/assets/73798429/bc79b97b-b743-436c-9098-d88ade435208)
 
   *Folders*
+  
 ![image](https://github.com/Taher-Abdeljaoued/OVHPoc/assets/73798429/ccec9507-d412-4ccc-851f-a7c1ded421e0)
 
   *Mails*
@@ -42,7 +43,9 @@ Example of 2 AlmostMail mailboxes that were migrated to the MerelyMail database 
 
 ### Migration from MerelyMail -> AlmostMail will generate a json file of the mailbox and saves locally in the solution : 
 Example of some MerelyMail mailboxex that were migrated to AlmostMail format :
+
 ![image](https://github.com/Taher-Abdeljaoued/OVHPoc/assets/73798429/c53befb5-8a18-41cc-936a-bff61934a246)
 
 
-I think you're all set to go and try to request some migrations !  👊
+
+## I think you're all set to go and try to request some migrations !  👊
